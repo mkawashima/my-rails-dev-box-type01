@@ -48,6 +48,7 @@ install 'ExecJS runtime' nodejs
 install Phantomjs phantomjs
 install Mecab mecab libmecab-dev mecab-ipadic-utf8
 install Mongodb mongodb
+install Graphviz graphviz
 
 # Needed for docs generation.
 update-locale LANG=en_US.UTF-8 LANGUAGE=en_US.UTF-8 LC_ALL=en_US.UTF-8
